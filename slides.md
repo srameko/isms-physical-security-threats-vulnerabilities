@@ -11,12 +11,8 @@ favicon: /favicon.png
 fonts:
   sans: Open Sans
   mono: Source Code Pro
-subtitle: Specialistka informační bezpečnosti
----
 layout: cover
 subtitle: Specialistka informační bezpečnosti
-author: Ondřej Šrámek
-date: leden 2026
 ---
 # Threat Intelligence, zranitelnosti a fyzická bezpečnost
 
@@ -31,33 +27,6 @@ subtitle: "GMON, GNFA, GCTI"
 - Lektor kybernetické bezpečnosti v Czechitas — Specialistka informační bezpečnosti
 ::qr::
 <QRCode url="https://linktr.ee/ondrejsramek" :size="120">Linktree</QRCode>
-
----
-layout: default
----
-
-# Použití materiálů
-
-Toto dílo je licencováno pod licencí **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International** ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)).
-
-<div class="icon-grid cols-2">
-  <div class="icon-card">
-    <div class="icon">©️</div>
-    <div class="label">Uveďte autora</div>
-  </div>
-  <div class="icon-card">
-    <div class="icon">🚫💲</div>
-    <div class="label">Neužívejte komerčně</div>
-  </div>
-  <div class="icon-card">
-    <div class="icon">🔁</div>
-    <div class="label">Zachovejte licenci</div>
-  </div>
-  <div class="icon-card">
-    <div class="icon">🌍</div>
-    <div class="label">Šiřte dále za stejných podmínek</div>
-  </div>
-</div>
 
 ---
 src: ./slides/00-agenda.md
