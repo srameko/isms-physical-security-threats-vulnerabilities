@@ -1,9 +1,9 @@
 {
-  "name": "czechitas-isms-threat-intelligence-vulnerability-management",
+  "name": "czechitas-isms-physical-security-threats-vulnerabilities",
   "private": true,
   "scripts": {
     "dev": "slidev",
-    "build": "slidev build --base /isms-threat-intelligence-vulnerability-management/ --out dist",
+    "build": "slidev build --base /isms-physical-security-threats-vulnerabilities/ --out dist",
     "preview": "npm run build && npx serve dist -l 4000"
   },
   "dependencies": {

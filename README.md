@@ -5,11 +5,11 @@ Prezentace pro kurz Czechitas Digital Academy: Specialistka informační bezpeč
 ## Slidy
 
 Aktuální verze online:
-https://srameko.github.io/isms-threat-intelligence-vulnerability-management/
+https://srameko.github.io/isms-physical-security-threats-vulnerabilities/
 
 ## Stáhnout PDF
 
-[isms-threat-intelligence-vulnerability-management.pdf](https://srameko.github.io/isms-threat-intelligence-vulnerability-management/isms-threat-intelligence-vulnerability-management.pdf)
+[isms-physical-security-threats-vulnerabilities.pdf](https://srameko.github.io/isms-physical-security-threats-vulnerabilities/isms-physical-security-threats-vulnerabilities.pdf)
 
 ## Lokální vývoj
 
