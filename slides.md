@@ -3,7 +3,7 @@ theme: ./theme
 title: Threat Intelligence, zranitelnosti a fyzická bezpečnost
 info: ISO 27001 — 5.7, 8.8, 7.1–7.7
 author: Ondřej Šrámek
-date: leden 2026
+date: srpen 2026
 mdc: true
 shiki:
   theme: github-light
