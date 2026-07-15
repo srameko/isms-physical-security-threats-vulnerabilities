@@ -41,11 +41,19 @@ src: ./slides/02-threat-intelligence.md
 ---
 
 ---
+src: ./slides/02b-threat-intelligence-gaps.md
+---
+
+---
 src: ./slides/03-vulnerability-management.md
 ---
 
 ---
 src: ./slides/04-physical-security.md
+---
+
+---
+src: ./slides/04b-physical-security-continued.md
 ---
 
 ---
