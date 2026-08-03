@@ -2,11 +2,7 @@
 layout: default
 ---
 
-# Fyzická bezpečnost – co dnes (záměrně) nepokrýváme
-
-<div class="callout">
-Dnes jsme probrali opatření 7.1–7.7. Annex A 7 má celkem <strong>14 opatření</strong> — zbytek si zaslouží vlastní pozornost, minimálně na úrovni přehledu.
-</div>
+# Co (záměrně) nepokrýváme
 
 | Opatření | Co řeší |
 |----------|---------|

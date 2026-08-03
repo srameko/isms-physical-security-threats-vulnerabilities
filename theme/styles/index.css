@@ -204,6 +204,22 @@
   line-height: 1.3;
 }
 
+/* ── Severity badges (CVSS, risk tables) ── */
+.slidev-layout .severity-badge {
+  display: inline-block;
+  padding: 0.25em 0.9em;
+  border-radius: 999px;
+  font-weight: 700;
+  font-size: 0.9em;
+  color: #ffffff;
+  white-space: nowrap;
+}
+.slidev-layout .severity-badge.sev-none { background: #9e9e9e; }
+.slidev-layout .severity-badge.sev-low { background: var(--czechitas-green); }
+.slidev-layout .severity-badge.sev-medium { background: var(--czechitas-yellow); color: #3a3a3a; }
+.slidev-layout .severity-badge.sev-high { background: var(--czechitas-orange); }
+.slidev-layout .severity-badge.sev-critical { background: var(--czechitas-pink); }
+
 /* ── Gradient background utility ── */
 .czechitas-gradient-bg {
   background: var(--czechitas-gradient);
