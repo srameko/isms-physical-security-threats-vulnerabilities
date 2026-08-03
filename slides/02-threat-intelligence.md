@@ -56,6 +56,19 @@ layout: default
 
 # Pojmy
 
+**Indicators of Attack (IoA)** – na rozdíl od IoC se nezaměřují na stopy po útoku, ale na chování a záměr útočníka **v reálném čase** (např. sled: spuštění kódu → persistence → lateral movement)
+
+- Umožňují zachytit útok ještě před dokončením – proaktivní obrana, ne jen forenzní analýza
+- Nezávislé na konkrétním malwaru – zaměřené na taktiky a techniky (TTPs)
+
+Zdroj: [crowdstrike.com – Indicators of Attack (IOA)](https://www.crowdstrike.com/en-us/cybersecurity-101/threat-intelligence/indicators-of-attack-ioa/)
+
+---
+layout: default
+---
+
+# Pojmy
+
 - **Zranitelnost (Vulnerability)** – slabé místo v IT systému, kterým útočník dokáže proniknout do systému a zaútočit
   - chyba v kódu nebo návrhu
 - **Hrozba (Threat)** – záměrná nebo nahodilá událost, která může ohrozit bezpečnost informačního systému
