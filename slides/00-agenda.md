@@ -37,7 +37,3 @@ layout: default
     <div class="label">Otázky</div>
   </div>
 </div>
-
-<div class="callout">
-Otázky: zvedněte (virtuální) ruku nebo použijte reakce << a >>, případně pište do chatu.
-</div>

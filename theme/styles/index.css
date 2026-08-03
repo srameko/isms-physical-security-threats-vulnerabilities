@@ -220,6 +220,79 @@
 .slidev-layout .severity-badge.sev-high { background: var(--czechitas-orange); }
 .slidev-layout .severity-badge.sev-critical { background: var(--czechitas-pink); }
 
+/* ── Loop / lifecycle diagram (5-step process loop, S-shaped) ──
+   Structure: A → B → C (top row), C ↓ D, D → E (bottom row, reversed), E ↑ A (loop back).
+   Grid columns: node, arrow, node, arrow, node. Grid rows: top, connectors, bottom.
+*/
+.slidev-layout .loop-diagram {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr auto 1fr;
+  grid-template-rows: 42% 16% 42%;
+  align-items: center;
+  justify-items: center;
+  height: 68%;
+  gap: 0.25rem 0.75rem;
+  margin: 1rem 0;
+}
+.slidev-layout .loop-node {
+  background: #f0edfb;
+  border: 1px solid #d9cdf2;
+  border-radius: 12px;
+  padding: 1em 1.2em;
+  text-align: center;
+  width: 100%;
+  height: 90%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #333;
+}
+.slidev-layout .loop-node .loop-icon {
+  font-size: 1.9rem;
+  line-height: 1;
+  margin-bottom: 0.2em;
+}
+.slidev-layout .loop-node .loop-title {
+  font-weight: 700;
+  color: var(--czechitas-blue);
+  font-size: 1.05rem;
+}
+.slidev-layout .loop-node .loop-desc {
+  font-size: 0.85rem;
+  color: #555;
+  margin-top: 0.25em;
+}
+.slidev-layout .loop-arrow {
+  font-size: 2.2rem;
+  color: var(--czechitas-blue);
+  font-weight: 700;
+  line-height: 1;
+}
+.slidev-layout .loop-connector {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  font-size: 2.2rem;
+  color: var(--czechitas-blue);
+  font-weight: 700;
+}
+.slidev-layout .loop-connector.loop-back {
+  color: var(--czechitas-pink);
+}
+.slidev-layout .loop-connector .loop-label {
+  font-size: 0.7rem;
+  font-weight: 400;
+  color: #666;
+  background: #f3f0f8;
+  padding: 0.15em 0.6em;
+  border-radius: 999px;
+  white-space: nowrap;
+  margin-top: 0.15em;
+}
+
 /* ── Gradient background utility ── */
 .czechitas-gradient-bg {
   background: var(--czechitas-gradient);

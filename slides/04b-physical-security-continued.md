@@ -2,22 +2,6 @@
 layout: default
 ---
 
-# Co (záměrně) nepokrýváme
-
-| Opatření | Co řeší |
-|----------|---------|
-| **7.8** Umístění a ochrana zařízení | Bezpečné umístění serverů/obrazovek, ochrana proti prostředí (teplota, vlhkost, EM záření) |
-| **7.9** Zabezpečení aktiv mimo prostory | Notebooky, telefony mimo kancelář — návaznost na VPN a remote access (8.20) |
-| **7.10** Paměťová média | Životní cyklus USB/HDD/pásek — pořízení, šifrování, likvidace |
-| **7.11** Podpůrné utility | Elektřina, chlazení, telekomunikace |
-| **7.12** Bezpečnost kabeláže | Ochrana síťové a napájecí kabeláže proti odposlechu a poškození |
-| **7.13** Údržba zařízení | Bezpečná údržba bez zavedení nových rizik |
-| **7.14** Bezpečná likvidace/reuse zařízení | Bezpečné smazání dat před vyřazením nebo opětovným použitím |
-
----
-layout: default
----
-
 # 7.8 Umístění a ochrana zařízení
 
 Cíl: zabránit ztrátě, poškození, krádeži nebo kompromitaci zařízení a přerušení provozu organizace.
@@ -104,8 +88,4 @@ layout: default
     <div class="icon">🗑️</div>
     <div class="label"><strong>7.14 Likvidace/reuse</strong><br/>Bezpečné smazání dat před vyřazením — návaznost na 8.10 (Information Deletion)</div>
   </div>
-</div>
-
-<div class="callout">
-Tato opatření budou detailněji součástí navazující lekce.
 </div>
