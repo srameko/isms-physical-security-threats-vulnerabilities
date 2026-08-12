@@ -149,9 +149,9 @@ layout: default
 # Threat Intelligence – zdroje
 
 - [misp-project.org](https://www.misp-project.org/) – MISP, platforma pro sdílení IoC
-- [cisa.gov – Resources & Tools](https://www.cisa.gov/resources-tools/all-resources-tools)
-- [cisa.gov – Cybersecurity Advisories](https://www.cisa.gov/news-events/cybersecurity-advisories)
-- [cisa.gov – Advisory AA24-249A](https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-249a)
+- [cisa.gov – Resources & Tools](https://www.cisa.gov/resources-tools/all-resources-tools) – souhrnný přehled nástrojů a zdrojů CISA
+- [cisa.gov – Cybersecurity Advisories](https://www.cisa.gov/news-events/cybersecurity-advisories) – průběžně publikovaná varování a doporučení k aktuálním hrozbám
+- [cisa.gov – Advisory AA24-249A](https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-249a) – konkrétní příklad advisory k reálné hrozbě
 - [cisa.gov – Known Exploited Vulnerabilities (KEV) Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog) – zranitelnosti reálně zneužívané útočníky
 
 ---
