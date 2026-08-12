@@ -14,7 +14,7 @@ Prezentaci z dnešní lekce (Threat Intelligence, management zranitelností a fy
 
 - [Threat Intelligence](https://www.youtube.com/watch?v=e-BZbtYubyI)
 - [Qualys Vulnerability Management](https://vimeo.com/145334988)
-- Bonus: **[Kevin Mitnick – Access Card Attack](https://www.youtube.com/watch?v=Mk9CA8MkUXY)** – tailgating a pretexting v praxi
+- Bonus: [Kevin Mitnick – Access Card Attack](https://www.youtube.com/watch?v=Mk9CA8MkUXY) – tailgating a pretexting v praxi
 
 ---
 layout: default
