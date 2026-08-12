@@ -89,3 +89,21 @@ layout: default
     <div class="label"><strong>7.14 Likvidace/reuse</strong><br/>Bezpečné smazání dat před vyřazením — návaznost na 8.10 (Information Deletion)</div>
   </div>
 </div>
+
+---
+layout: default
+---
+
+# Nejčastější chyby – Fyzická bezpečnost
+
+<div class="callout warning">
+Karta bývalého zaměstnance nebo dodavatele, která ještě rok po odchodu otvírá dveře do serverovny — jeden z nejčastějších nálezů fyzického auditu.
+</div>
+
+- Přístupová oprávnění se nikdy nepřezkoumávají – karty bývalých zaměstnanců/dodavatelů zůstávají aktivní
+- Fyzická bezpečnost řešena odděleně od IT – žádná síťová segregace pro EZS, kamery či klimatizaci
+- Serverovna bez monitoringu teploty a vlhkosti → postupné selhání disků, dokud si toho někdo nevšimne
+- Clear desk / clear screen politika existuje jen na papíře, v praxi nevynucována
+- Návštěvníci a dodavatelé bez dohledu v prostorách s omezeným přístupem
+- Chybějící nebo nepravidelné kontroly kabeláže a rozvaděčů (sweepy)
+- Mobilní zařízení mimo prostory bez šifrování disku a bez možnosti remote wipe

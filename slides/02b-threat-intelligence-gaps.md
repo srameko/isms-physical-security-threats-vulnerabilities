@@ -37,3 +37,20 @@ layout: default
 - **Model poisoning** – manipulace trénovacích dat
 - **Prompt injection** – obcházení bezpečnostních zábran LLM
 - **AI-generated phishing** – sofistikovaný phishing tvořený pomocí AI
+
+---
+layout: default
+---
+
+# Nejčastější chyby – Threat Intelligence
+
+<div class="callout warning">
+„Sledujeme desítky feedů" neznamená nic, pokud z nich nevzniká jediná akce, kterou lze doložit.
+</div>
+
+- **„Shelfware" TI** – předplacené reporty a feedy, které nikdo nečte ani nevyhodnocuje
+- Chybějící návaznost na **Risk Register** – relevantní hrozba se nikam nepromítne
+- Nejasné vlastnictví – „sleduje to každý" ve skutečnosti znamená, že nesleduje nikdo
+- Ad-hoc review bez definované frekvence namísto pravidelného cyklu
+- Jen technická IoC bez kontextu – ignorování motivace a TTP útočníka (kdo a proč)
+- Nepokrytí nových typů hrozeb – AI/LLM infrastruktura mimo standardní feedy
