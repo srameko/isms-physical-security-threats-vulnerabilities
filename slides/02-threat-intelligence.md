@@ -152,8 +152,7 @@ layout: default
 - [cisa.gov – Resources & Tools](https://www.cisa.gov/resources-tools/all-resources-tools)
 - [cisa.gov – Cybersecurity Advisories](https://www.cisa.gov/news-events/cybersecurity-advisories)
 - [cisa.gov – Advisory AA24-249A](https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-249a)
-- [threatmap.bitdefender.com](https://threatmap.bitdefender.com/)
-- [threatmap.fortiguard.com](https://threatmap.fortiguard.com/)
+- [cisa.gov – Known Exploited Vulnerabilities (KEV) Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog) – zranitelnosti reálně zneužívané útočníky
 
 ---
 layout: default
